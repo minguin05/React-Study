@@ -17,6 +17,7 @@ function App() {
     <> 
       <Hello /> 
       <div style={style}>{name}</div>
+      <div className="gray-box"></div>
     </>
   );
 }
