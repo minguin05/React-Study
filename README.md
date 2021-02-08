@@ -58,3 +58,23 @@
 
 ![image](https://user-images.githubusercontent.com/59601962/107115392-b75fb380-68af-11eb-81e6-c5ed1cdfbd48.png)
 
+
+### 2021-02-08 월요일
+
+* 배열 값 입력 예제
+
+![image](https://user-images.githubusercontent.com/59601962/107212928-05f58500-6a4b-11eb-8e72-e274aae02792.png)
+
+![image](https://user-images.githubusercontent.com/59601962/107213024-28879e00-6a4b-11eb-933f-6e1016272cc8.png)
+
+* 배열 값 삭제 예제
+
+![image](https://user-images.githubusercontent.com/59601962/107214157-d8a9d680-6a4c-11eb-8d3c-41b5ca39c15f.png)
+
+![image](https://user-images.githubusercontent.com/59601962/107214248-fa0ac280-6a4c-11eb-9700-ea27d353b2fa.png)
+
+* 배열 값 수정 예제
+
+![image](https://user-images.githubusercontent.com/59601962/107215349-8b2e6900-6a4e-11eb-8982-183d10b0d540.png)
+
+![image](https://user-images.githubusercontent.com/59601962/107215424-a1d4c000-6a4e-11eb-9756-676bcb443241.png)
